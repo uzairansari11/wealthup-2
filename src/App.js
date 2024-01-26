@@ -73,6 +73,9 @@ function App() {
             </p>
           </div>
         </div>
+        <div className="flex justify-center mt-[31px] relative z-20 -bottom-[27rem]">
+          <Button text={"Get Started"} />
+        </div>
       </div>
     </div>
   );
